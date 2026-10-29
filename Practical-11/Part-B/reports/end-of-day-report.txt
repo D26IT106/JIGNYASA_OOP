@@ -1,0 +1,8 @@
+MINIBANK END-OF-DAY REPORT
+==========================
+Total deposits: Rs. 1500
+Total withdrawals: Rs. 200
+Net transaction amount: Rs. 1300
+
+LOG FILE DETAILS
+transactions.log | size=62 bytes | last-modified=2026-10-29T15:09:53.4416978Z
