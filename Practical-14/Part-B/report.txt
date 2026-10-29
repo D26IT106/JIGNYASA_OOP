@@ -1,0 +1,6 @@
+=== End-of-Day Summary Report ===
+Generated: 2026-10-29 22:09:13
+Total Deposits:   7500
+Total Withdrawals: 1000
+Net Change:       6500
+===================================
